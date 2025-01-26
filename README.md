@@ -12,7 +12,7 @@ This is a project that is an automated system for online shopping on the Interne
 ### Technology
 - Python 3.9
 - Selenium
-- - Py test
+- Py test
 - WebDriver Manager
 
 ### Installation
@@ -26,8 +26,8 @@ This is a project that is an automated system for online shopping on the Interne
 
 
 Project structure
-base/ — base classes and functions.
-pages/ — implementations of the Page Object Model for site pages.
-tests/ — test scenarios.
-utilities/ — auxiliary modules (logging, screenshots, etc.).
-conftest.py — setting up fixtures for tests.   
+- base/ — base classes and functions.
+- pages/ — implementations of the Page Object Model for site pages.
+- tests/ — test scenarios.
+- utilities/ — auxiliary modules (logging, screenshots, etc.).
+- conftest.py — setting up fixtures for tests.   
